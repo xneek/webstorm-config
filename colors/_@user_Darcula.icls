@@ -3,10 +3,15 @@
     <property name="created">2019-10-24T17:40:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-24T17:49:13</property>
+    <property name="modified">2020-01-10T16:42:05</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="b565a4" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
     </option>
@@ -24,9 +29,24 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="7c4517" />
+      </value>
+    </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="1e29b5" />
+        <option name="FOREGROUND" value="b57f3a" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="74aab5" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="98adb5" />
       </value>
     </option>
   </attributes>
