@@ -1,13 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="newRelicExample" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="TaxPostingsResource" type="PLAIN_TEXT" />
+      <mapping pattern="newRelicExample" type="PLAIN_TEXT" />
       <mapping pattern="taxationSystemMapper" type="PLAIN_TEXT" />
       <mapping pattern=".bot" type="PLAIN_TEXT" />
       <mapping pattern="stageEventExampleDecode.json" type="PLAIN_TEXT" />
-      <mapping ext="pubxml" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="jsdoc" type="PLAIN_TEXT" />
+      <mapping ext="pubxml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
