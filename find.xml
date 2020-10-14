@@ -14,7 +14,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.hbs</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
