@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="may" />
+      <item value="Otherwise" />
+      <item value="early" />
+      <item value="ранняя" />
+      <item value="shelve" />
+      <item value="Or you can simply use the following which enables the rules commented above as" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="6" />
+        <entry key="RUSSIAN" value="7" />
+      </map>
+    </option>
+  </component>
+</application>
